@@ -1,0 +1,58 @@
+Fases do desenvolvimento de um projeto ágil de software:
+-Requisitos
+-Análise
+-Construção
+-Testes
+-Liberação
+
+Em projetos ágeis, o software é divido em partes e cada uma delas
+possui as 5 fases, durando em média um mês cada
+-mudanças constantes de acordo com feedbacks
+-ser agil consiste em ser capaz de se adptar rapidamente a mudanças
+
+SCRUM é um framework de gerenciamento de projetos ágeis
+-equipes pequenas e multidisciplinares
+
+Pilares do SCRUM:
+-Transparência: conversa entre equipe, demonstrar o software ao usuario
+-Adaptação: mudança conforme feedback
+-Inspeção: dailys e aprender com o processo de desenvolvimento
+
+Roles and Responsabilities:
+-Product Owner (PO): representante da área de negocios
+	define as funcionalidades do software (backlog)
+	faz os devs entenderem o backlog
+-Scrum Master (SM): garante uso correto do SCRUM
+	não é gerente de projetos
+	auxilia no explicação do backlog
+	auxilia os devs
+-Dev Team (DEV): desenvolve, projeta, testa, entrega...
+
+Cerimônias SCRUM:
+-time box: tempo maximo de uma cerimonia ou sprint
+-sprint: desenvolvimento de software por 30 dias
+    *conta com: planejamento, dailys, revisões e retrospectiva
+-No planejamento, estão PO SM DEV (oq fazer? como?)
+-dailys: 15mmin, to do doing done, sempre DEV, as vezes SM e PO
+-revisao: DEV apresenta ao PO oq foi feito
+-retrospectiva: reuniao de DEV para esclarecer dificuldades e dasafios
+
+Releases:
+-release de multiplas squads: varios times trabalhando em partes do projeto
+que podem ou nao ter relacao. dificl merge
+-release de projeto: entrega do projeto todo. deve-se ter cautela pois
+algumas coisa nao podem ser feitas de uma so vez
+-MVP: minimal viable product
+
+Product backlog:
+-épicos: ideia geral, final e superficial
+-historia: decomposição do epico em partes
+-tarefa: detalhamento das partes
+
+criterio de aceite: criterios necessarios elaborados pelo PO
+
+stakeholder: pessoa ou grupo que ligitima a ação de uma organização
+
+
+
+
