@@ -1,0 +1,9 @@
+<section>: seção genérica de conteúdo
+<header>: cabeçalho (logotipos, menus, busca)
+<article>: conteudo independente e de maior relevancia (comentarios, posts, barra lateral)
+<aside>: conteúdo relacionado ao conteúdo principal
+<footer>: rodapé do conteúdo
+<a href="mailto:e@uso.br"></a>: redireciona para composição de email
+<a href="tell:32734922"></a>: redireciona para ligações
+
+um id só é usado em um elemento, já uma classe pode ser usada por varios
