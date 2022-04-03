@@ -1,0 +1,7 @@
+React é uma BIBLIOTECA Js para criar user interface
+React é uma linguagem declarativa
+
+JSX - linguagem de marcacao intermediaria entre JS e HTML
+ex sintaxe: const element = <h1> Ola, mundo </h1>;
+é uma sintax sugar para React.createElement()
+o react transpila JSX para html

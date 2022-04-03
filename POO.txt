@@ -1,0 +1,47 @@
+paradigma declarativo: sql
+
+POO paradigma imperativo
+
+abstração - isolar um aspecto de algo de modo a simplificar o todo
+herança - filho herda propriedades dos pais
+escapusulamento - codigo da classe é isolado do resto do codigo
+polimorfismo - filho herda mas apresenta um comportamento diferente para os msms metodos
+
+OOJS
+protótipos - esqueleto de todos os objetos
+
+classes - sintaxe feita para facilitar a escrita, pois no JS nao ha classes nativamente (sempre uma versao do prototype)
+	Sintaxe:
+	class Alimento {
+		constructor (comida) {
+			this.comida = comida
+		}
+		comer () {
+			return "Nham!"
+		}
+	}
+
+Sintaxe da herança: class A extends B (herda de B)
+para acessar os metodos do pai: super()
+
+getter e setter: get algo () { return this._algo}
+set algo (v) { this._algo = v}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+promises: objeto de processamento assincrono
+pode ser resolvido ou rejeitado
+
+tres estados de promise: pending, fulfilled e rejected
+sintaxe: promise = new Promise((resolve, reject) => {
+	window.setTimeout(() => {
+		resolve(console.log('Resolvida'));
+	}, 2000);
+});
+neste caso, levara 2 sec para dizer que esta resolvido
+
+
+async/await: async mostra que a funcao é assincrona, await faz com que a funcao pare ate o retorno da promise
+
+
+API: intermedia front e backend; intermedio por urls
+JSON: js object notation, APIs costumam retornar JSON
+
+fetch: retorna uma promise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

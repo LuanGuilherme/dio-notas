@@ -1,0 +1,51 @@
+DOM: document object model, padrao de acesso a elementos HTML
+
+BOM: browser object model, tudo que esta dentro da window, um nivel acima do document, logo, acima do DOM
+
+metodos DOM: document.getElementById('id')
+	     document.getElementByTagName('tag')
+	     document.getElementByClassName('class')
+	     document.querySelectorAll('tag class id')//mais generico
+
+document.createElement(element) // cria elemento HTML
+document.removeChild(element) // remove elemento HTML
+document.appendChild(element) // adiciona elemento HTML
+document.replaceChild(new, old) // substitui elemento
+
+Seja: elem = document.getElementById('id')
+Tem-se:
+elem.classList.add("nova-classe") adiciona classe
+elem.classList.remove("classe") remove classe
+elem.classList.toggle("classe") adiciona classe caso ela nao esteja em elem, e a remove caso esteja
+
+elem.style.color = "blue" muda estilo do elemento
+
+eventos: açoes do usuario
+tipos de eventos: mouseover, mouseout, click, dbclick, change, load
+ex:
+elem.addEventListener(tipoEvento, funcao)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

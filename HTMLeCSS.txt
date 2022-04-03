@@ -7,3 +7,9 @@
 <a href="tell:32734922"></a>: redireciona para ligações
 
 um id só é usado em um elemento, já uma classe pode ser usada por varios
+
+box-model: caixa que delimita todos os elementos do HTML
+se divide em margin, border, padding e content
+
+margin: auto; centraliza o conteudo em relacao ao elemento pai
+se for o html, fica no centro da pagina

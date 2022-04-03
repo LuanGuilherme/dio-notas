@@ -1,0 +1,17 @@
+Map - coleção de arrays com formato [chave, valor]
+declara-se : map = new Map();
+map.set("um", "primeiro") // {"um" => "primeiro"}
+map.get(um) // primeiro
+map.delete("um") // {}
+
+maps podem ter chaves de qualquer tipo
+maps possuem atributo length
+
+Set - estrutura que armazena valores unicos (sem repetiçao)
+declara-se: set = new Set()
+set.add(1)
+set.has(1) // true
+set.delete(1)
+
+sets possuem a propriedade size para tamanho
+nao possui os msms metodos de um array

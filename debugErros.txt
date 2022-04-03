@@ -1,0 +1,41 @@
+Erros
+acontecem em tempo de execução
+composto por mensagem, nome, linha e call stack
+
+DOMException
+erros relacionados a uma pagina
+
+Tratamento de erros
+throw: return na forma de erro no console
+
+try/catch: executa-se o codigo dentro do try e, em caso de erro, executa-se o codigo dentro do catch
+sintaxe:
+try {
+	funcaoVerifica(arg)
+catch(e) {
+	console.log(e)
+}
+
+o try catch pode ainda ter um finally, que demarca uma secao de codigo a ser executada independentemente do resultado do try
+
+
+objeto Error
+new Error(message, fileName, lineNumber)
+fileName e lineNumber são opcionais
+ex: const erro = new Error("Mensagem invalida!")
+erro.name = "mensagemInvalida"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

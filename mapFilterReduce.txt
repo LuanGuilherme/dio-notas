@@ -1,0 +1,42 @@
+Map: funcao como na matematica (f(x))
+cria um novo array, nao modifica o original
+sintaxe: arr.map(callback, thisArg)
+	callback - funcao a ser executada
+	thisArg (opcional) - uso de atributos de objetos na funcao
+Ex:
+const array = [1, 2, 3, 4, 5]
+array.map((item) => item * 2);
+//retorno [2, 4, 6, 8, 10]
+
+map x forEach
+map retorna um array, forEach, undefined
+
+Filter: cria um novo array filtrado
+sintaxe: array.filter(callback, thisArg)
+Ex: 
+const frutas = ['maça', 'maça verde', 'pera']
+frutas.filter((fruta) => fruta.includes('maça))
+//retorno ['maça', 'maça verde']
+
+
+Reduce: executa uma funcao nos elementos do array e retotna um so valor
+sintaxe: array.reduce(callbackFn, initialValue)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
